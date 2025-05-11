@@ -10,6 +10,5 @@
 - **Frameworks**: quarkus
 - **Tools**: Docker, Kubernetes, Istio
 - **Other**: Git, Linux, CI/CD
-- 
 
 ⭐ **Fun Fact**:  Pursue your heart, love what you love, and don't ask questions. ☕  
