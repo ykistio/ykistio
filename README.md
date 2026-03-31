@@ -1,14 +1,12 @@
-# Hello World! 🌍 I'm Yukun Han
+# Hello World! 🌍 I'm Han Yukun 
 
 🚀 **About Me**:
-- 💻  careers: Backend Developer @senshine
-- 📚  interest: quarkus | istio  
-- 🌟  goal:  Solve real-world problems with code and create clean and efficient tools.
+- 💻  careers: Backend Developer
+- 📚  interest: cncf| spring | quarkus  
+- 🌟  goal:  Solve real-world problems with code.
 
 🛠 **Tech Stack**:  
-- **Languages**: Java, Go
-- **Frameworks**: quarkus
-- **Tools**: Docker, Kubernetes, Istio
-- **Other**: Git, Linux, CI/CD
+- **Languages**: Go, Java
+- **Frameworks**: gin, quarkus, spring
 
 ⭐ **Fun Fact**:  Pursue your heart, love what you love, and don't ask questions. ☕  
